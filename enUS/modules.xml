@@ -6,6 +6,7 @@
   <Script file="bindings.lua" />
   <Script file="buffers.lua" />
   <Script file="chat.lua" />
+  <Script file="colors.lua" />
   <Script file="errors.lua" />
   <Script file="misc.lua" />
   <Script file="monitors.lua" />
