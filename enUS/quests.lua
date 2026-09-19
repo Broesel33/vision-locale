@@ -40,3 +40,5 @@ L["Loading"] = true
 L["near"] = true
 L["Repeatable"] = true
 L["phased out"] = true
+L["No quest data source"] = true
+L["Quest Giver"] = true
