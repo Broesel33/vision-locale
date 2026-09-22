@@ -198,3 +198,17 @@ L["Statistics"] = true
 L["Next Reward"] = true
 L["Edit Set"] = true
 L["Delete Set"] = true
+
+-- Item slot click effects (context menu)
+L["Place Item"] = true
+L["Pick Up"] = true
+L["Sell"] = true
+L["Move to Bags"] = true
+L["Move to Bank"] = true
+L["Attach to Mail"] = true
+L["Add to Trade"] = true
+L["Put up for Auction"] = true
+L["Open"] = true
+L["Equip"] = true
+L["Read"] = true
+L["Use"] = true
