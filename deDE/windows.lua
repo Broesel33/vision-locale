@@ -128,6 +128,12 @@ L["Daily"] = "Täglich"
 L["Weekly"] = "Wöchentlich"
 L["Quest List"] = "Questliste"
 L["Quests"] = "Quests"
+L["Track"] = "Verfolgen"
+L["Grey"] = "Grau"
+L["Green"] = "Grün"
+L["Yellow"] = "Gelb"
+L["Orange"] = "Orange"
+L["Red"] = "Rot"
 
 --Range
 L["Range"] = "Reichweite"
