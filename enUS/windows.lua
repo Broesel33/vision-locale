@@ -136,6 +136,12 @@ L["Daily"] = true
 L["Weekly"] = true
 L["Quest List"] = true
 L["Quests"] = true
+L["Track"] = true
+L["Grey"] = true
+L["Green"] = true
+L["Yellow"] = true
+L["Orange"] = true
+L["Red"] = true
 
 --Range
 L["Range"] = true
