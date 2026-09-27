@@ -139,6 +139,9 @@ L["Red"] = "Rot"
 L["Range"] = "Reichweite"
 L["Range Changed"] = "Reichweite geändert"
 
+--Professions
+L["Professions"] = "Berufe"
+
 --Reforging
 L["Reforging"] = "Umschmieden"
 

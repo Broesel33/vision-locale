@@ -147,6 +147,9 @@ L["Red"] = true
 L["Range"] = true
 L["Range Changed"] = true
 
+--Professions
+L["Professions"] = true
+
 --Reforging
 L["Reforging"] = true
 
