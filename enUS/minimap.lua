@@ -4,7 +4,6 @@ local L = WowVision:translate("enUS")
 L["Minimap Scanner"] = true
 L["Scan Minimap"] = true
 L["Announce Tracked Dots While Walking"] = true
-L["Switch Gathering Tracking Off To Sort Nodes"] = true
 L["Centre Mouse Cursor Before Scanning"] = true
 L["New Minimap Dot Alert"] = true
 L["Other NPCs"] = true

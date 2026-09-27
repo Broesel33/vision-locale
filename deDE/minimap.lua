@@ -5,7 +5,6 @@ if not L then return end
 L["Minimap Scanner"] = "Minikarten-Scanner"
 L["Scan Minimap"] = "Minikarte scannen"
 L["Announce Tracked Dots While Walking"] = "Verfolgte Punkte beim Laufen ansagen"
-L["Switch Gathering Tracking Off To Sort Nodes"] = "Sammel-Aufspüren zum Sortieren kurz ausschalten"
 L["Centre Mouse Cursor Before Scanning"] = "Mauszeiger vor dem Scan zentrieren"
 L["New Minimap Dot Alert"] = "Neuer Minikarten-Punkt"
 L["Other NPCs"] = "Andere NPCs"
