@@ -40,3 +40,5 @@ L["Points of Interest"] = true
 L["Tracking"] = true
 L["Minimap Tracking"] = true
 L["Map Filter"] = true
+L["above"] = true
+L["below"] = true
