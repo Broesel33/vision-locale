@@ -227,3 +227,4 @@ L["Open"] = true
 L["Equip"] = true
 L["Read"] = true
 L["Use"] = true
+L["WowVision unlocked your action bars so that dragging works. You can lock them again in the game options under Action Bars."] = true
