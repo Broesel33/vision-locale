@@ -152,6 +152,9 @@ L["Red"] = true
 L["Range"] = true
 L["Range Changed"] = true
 
+--Professions
+L["Professions"] = true
+
 --Reforging
 L["Reforging"] = true
 
@@ -167,6 +170,7 @@ L["Taxi"] = true
 --TradeSkill
 L["Trade Skill"] = true
 L["Recipes"] = true
+L["Favorite"] = true
 
 --Training
 L["Training"] = true

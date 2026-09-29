@@ -144,6 +144,9 @@ L["Red"] = "Rot"
 L["Range"] = "Reichweite"
 L["Range Changed"] = "Reichweite geändert"
 
+--Professions
+L["Professions"] = "Berufe"
+
 --Reforging
 L["Reforging"] = "Umschmieden"
 
@@ -159,6 +162,7 @@ L["Taxi"] = "Flugpunkt"
 --TradeSkill
 L["Trade Skill"] = "Beruf"
 L["Recipes"] = "Rezepte"
+L["Favorite"] = "Favorit"
 
 --Training
 L["Training"] = "Ausbildung"
