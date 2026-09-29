@@ -157,6 +157,7 @@ L["Taxi"] = "Flugpunkt"
 --TradeSkill
 L["Trade Skill"] = "Beruf"
 L["Recipes"] = "Rezepte"
+L["Favorite"] = "Favorit"
 
 --Training
 L["Training"] = "Ausbildung"
