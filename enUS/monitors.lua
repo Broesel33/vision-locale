@@ -91,5 +91,20 @@ L["Speak Tracked Auras"] = true
 L["No tracked auras"] = true
 L["No tracked buffs or bars"] = true
 
+-- Spell Cooldowns monitor
+L["Spell Cooldowns"] = true
+L["Spell Cooldown Rule"] = true
+L["Spell Proc Rule"] = true
+L["Proc"] = true
+L["Proc Ended"] = true
+L["No proc"] = true
+L["charges"] = true
+L["%d seconds"] = true
+L["%d minutes %d seconds"] = true
+L["No essential or utility spells"] = true
+L["No spells with cooldowns"] = true
+L["Speak Tracked Cooldowns"] = true
+L["No tracked cooldowns"] = true
+
 -- Keybindings
 L["Toggle All Monitors"] = true
