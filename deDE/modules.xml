@@ -10,6 +10,7 @@
   <Script file="controller.lua" />
   <Script file="errors.lua" />
   <Script file="misc.lua" />
+  <Script file="groupHealth.lua" />
   <Script file="minimap.lua" />
   <Script file="monitors.lua" />
   <Script file="navigation.lua" />
