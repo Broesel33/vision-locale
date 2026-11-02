@@ -269,3 +269,11 @@ L["Route to the Nearest Unvisited of the Same Name"] = "Route zum nächsten unbe
 L["Direct to the Nearest Unvisited of the Same Name"] = "Direkt zum nächsten unbesuchten gleichnamigen Ziel"
 L["Choose a destination in the navigation window first"] = "Wähle zuerst ein Ziel im Navigationsfenster"
 L["No unvisited %s found"] = "Kein unbesuchtes Ziel %s gefunden"
+
+-- The route to the target (core/navigation/targetRoute.lua)
+L["Route to Your Target"] = "Route zu deinem Ziel"
+L["You have no target"] = "Du hast kein Ziel"
+L["You are targeting yourself"] = "Du hast dich selbst im Ziel"
+L["Your target's position is not known"] = "Die Position deines Ziels ist nicht bekannt"
+L["No route to your target"] = "Keine Route zu deinem Ziel"
+L["Your floor is not clear here. Choose your start."] = "Deine Ebene ist hier nicht eindeutig. Wähle deinen Start."

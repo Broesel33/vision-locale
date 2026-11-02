@@ -276,3 +276,11 @@ L["Route to the Nearest Unvisited of the Same Name"] = true
 L["Direct to the Nearest Unvisited of the Same Name"] = true
 L["Choose a destination in the navigation window first"] = true
 L["No unvisited %s found"] = true
+
+-- The route to the target (core/navigation/targetRoute.lua)
+L["Route to Your Target"] = true
+L["You have no target"] = true
+L["You are targeting yourself"] = true
+L["Your target's position is not known"] = true
+L["No route to your target"] = true
+L["Your floor is not clear here. Choose your start."] = true
