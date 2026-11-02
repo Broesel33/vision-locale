@@ -131,6 +131,7 @@ L["There is no such floor"] = true
 L["Tram dock toward %s"] = true
 L["Turn off the WowVisionNavigation addon to use its routes here"] = true
 L["Use %s; the route goes on after it"] = true
+L["Ahead: walk into %s; the route goes on after it"] = true
 L["a dive"] = true
 L["surfacing"] = true
 L["Dive here; the route goes on after it"] = true
