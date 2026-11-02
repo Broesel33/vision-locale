@@ -44,4 +44,5 @@ L["default"] = "par défaut"
 
 L["Virtual Focus"] = "Focalisation virtuelle"
 L["Target Focus"] = "Cibler la focalisation"
+L["Open Target Menu"] = "Ouvrir le menu de la cible"
 L["Game Default"] = "Réglage du jeu"

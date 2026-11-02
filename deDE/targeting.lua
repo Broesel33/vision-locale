@@ -44,4 +44,5 @@ L["default"] = "Standard"
 
 L["Virtual Focus"] = "Virtueller Fokus"
 L["Target Focus"] = "Zielfokus"
+L["Open Target Menu"] = "Zielmenü öffnen"
 L["Game Default"] = "Spielstandard"

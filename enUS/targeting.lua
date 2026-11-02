@@ -43,4 +43,5 @@ L["default"] = true
 
 L["Virtual Focus"] = true
 L["Target Focus"] = true
+L["Open Target Menu"] = true
 L["Game Default"] = true
