@@ -8,6 +8,7 @@ L["Watch Raid"] = true
 L["Announce Full Health"] = true
 L["Announce Deaths"] = true
 L["Silent Out of Combat"] = true
+L["Repeat Only After a Change"] = true
 L["Raid Groups"] = true
 L["Group %d"] = true
 L["Tanks"] = true
