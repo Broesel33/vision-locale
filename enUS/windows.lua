@@ -194,6 +194,11 @@ L["Taxi"] = true
 --TradeSkill
 L["Trade Skill"] = true
 L["Recipes"] = true
+L["Craft"] = true
+L["Stable"] = true
+L["Stable slot %d"] = true
+L["Selected Pet"] = true
+L["Slots"] = true
 L["Favorite"] = true
 
 --Training

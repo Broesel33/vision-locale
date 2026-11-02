@@ -195,6 +195,11 @@ L["Taxi"] = "Trajets aériens"
 --TradeSkill
 L["Trade Skill"] = "Métier"
 L["Recipes"] = "Recettes"
+L["Craft"] = "Artisanat"
+L["Stable"] = "Écurie"
+L["Stable slot %d"] = "Emplacement d'écurie %d"
+L["Selected Pet"] = "Familier sélectionné"
+L["Slots"] = "Emplacements"
 L["Favorite"] = "Favori"
 
 --Training
