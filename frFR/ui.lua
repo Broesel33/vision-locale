@@ -4,6 +4,8 @@ if not L then return end
 L["WowVision"] = "WowVision"
 L["UI"] = "Interface"
 L["Interrupt Speech on Window Close"] = "Interrompre la parole à la fermeture d'une fenêtre"
+L["Letter Navigation in Menus"] = "Navigation par lettres dans les menus"
+L["No results"] = "Aucun résultat"
 
 --Combat
 L["Combat"] = "Combat"
