@@ -52,6 +52,8 @@ L["waypoints"] = true
 L["yards"] = true
 L["Beacon set"] = true
 L["Beacon stopped"] = true
+L["Start the Route Again From Here"] = true
+L["No route to start again"] = true
 L["Entry Points"] = true
 L["Direct"] = true
 L["Direct: %s, %d yards"] = true
@@ -262,3 +264,14 @@ L["In the tram toward %s"] = true
 L["The boarding point proof or the map changed; guidance ended"] = true
 L["height %d"] = true
 L["waypoint"] = true
+
+--Visited waypoints
+L["Visited Waypoints"] = true
+L["Visited For (Minutes)"] = true
+L["Visited"] = true
+L["Forget Visited Waypoints"] = true
+L["Visited waypoints forgotten"] = true
+L["Route to the Nearest Unvisited of the Same Name"] = true
+L["Direct to the Nearest Unvisited of the Same Name"] = true
+L["Choose a destination in the navigation window first"] = true
+L["No unvisited %s found"] = true
