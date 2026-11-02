@@ -81,6 +81,9 @@ L["Activities"] = "Activités"
 L["Comment"] = "Commentaire"
 L["Roles"] = "Rôles"
 L["Members"] = "Membres"
+L["Play Style"] = "Style de jeu"
+L["Invite"] = "Inviter"
+L["Group search blocked, reload to search again"] = "Recherche de groupe bloquée, rechargez l'interface pour chercher à nouveau"
 
 --Loot
 L["Loot"] = "Butin"
@@ -152,6 +155,27 @@ L["Red"] = "Rouge"
 --Range
 L["Range"] = "Portée"
 L["Range Changed"] = "Portée modifiée"
+
+--Talent trees (WoW: Forever)
+L["Row"] = "Rangée"
+L["Choice"] = "Choix"
+L["Learn"] = "Apprendre"
+L["Invalid"] = "Invalide"
+L["Requires %s"] = "Nécessite %s"
+L["or"] = "ou"
+L["Search Match"] = "Correspond à la recherche"
+L["Unsaved Changes"] = "Modifications non enregistrées"
+L["Undo Changes"] = "Annuler les modifications"
+L["Reset Tree"] = "Réinitialiser l'arbre"
+L["Point"] = "Point"
+
+--Legacy (WoW: Forever)
+L["Legacy"] = "Héritage"
+L["Challenges"] = "Défis"
+L["Completed"] = "Terminé"
+L["Tracked"] = "Suivi"
+L["Earned"] = "Obtenu"
+L["Trees"] = "Arbres"
 
 --Professions
 L["Professions"] = "Métiers"
@@ -250,6 +274,7 @@ L["Alert Editor"] = "Éditeur d'alertes"
 L["Reload Interface"] = "Recharger l'interface"
 L["Changes made here apply after the interface reloads. A Reload Interface button is at the end of the window."] = "Les modifications faites ici s'appliquent après le rechargement de l'interface. Un bouton Recharger l'interface se trouve à la fin de la fenêtre."
 L["Cooldown manager changes apply after you reload the interface. Type /reload when ready."] = "Les modifications du gestionnaire des temps de recharge s'appliquent après le rechargement de l'interface. Tapez /reload quand vous êtes prêt."
+L["Questie Setup"] = "Configuration de Questie"
 
 -- Chat channels window
 L["Chat Channels"] = "Canaux de discussion"

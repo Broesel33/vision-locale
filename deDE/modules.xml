@@ -6,6 +6,7 @@
   <Script file="bindings.lua" />
   <Script file="buffers.lua" />
   <Script file="chat.lua" />
+  <Script file="colors.lua" />
   <Script file="controller.lua" />
   <Script file="errors.lua" />
   <Script file="misc.lua" />
@@ -16,6 +17,7 @@
   <Script file="operators.lua" />
   <Script file="powers.lua" />
   <Script file="quests.lua" />
+  <Script file="scanner.lua" />
   <Script file="speech.lua" />
   <Script file="targeting.lua" />
   <Script file="ui.lua" />
