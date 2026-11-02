@@ -3,6 +3,9 @@ if not L then return end
 
 L["Navigation"] = "Navigation"
 L["Auto-move to Interact Target"] = "Automatisch zum Interaktionsziel bewegen"
+L["Automatically Navigate to Corpse"] = "Automatisch zur Leiche navigieren"
+-- the corpse run's target (deDE has no scanner.lua yet, where enUS keeps the key)
+L["Corpse"] = "Leiche"
 
 --Compass
 L["Compass"] = "Kompass"

@@ -3,6 +3,7 @@ if not L then return end
 
 L["Navigation"] = "Navigation"
 L["Auto-move to Interact Target"] = "Aller automatiquement à la cible d'interaction"
+L["Automatically Navigate to Corpse"] = "Naviguer automatiquement vers le cadavre"
 
 --Compass
 L["Compass"] = "Boussole"
