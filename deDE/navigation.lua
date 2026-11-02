@@ -36,6 +36,16 @@ L["Play Sound on Follow or Unfollow"] = "Sound bei Folgen oder Entfolgen abspiel
 L["Maps"] = "Karten"
 L["Zone Changed Alert"] = "Gebietsänderungs-Alarm"
 L["Subzone Changed Alert"] = "Untergebietsänderungs-Alarm"
+L["Beacon"] = "Leuchtfeuer"
+L["Beacon Sound"] = "Leuchtfeuer-Sound"
+L["Beacon Aligned"] = "Leuchtfeuer ausgerichtet"
+L["Beacon Off Course"] = "Leuchtfeuer abseits des Kurses"
+L["Waypoint Reached"] = "Wegpunkt erreicht"
+
+--Atlas
+L["Atlas"] = "Atlas"
+L["Key"] = "Schlüssel"
+L["Game Version"] = "Spielversion"
 L["Position unavailable"] = "Position nicht verfügbar"
 L["No route found"] = "Keine Route gefunden"
 L["Arrived"] = "Angekommen"

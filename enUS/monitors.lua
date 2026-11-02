@@ -46,6 +46,7 @@ L["Low power"] = true
 L["Spell"] = true
 L["Spell Name"] = true
 L["Spell ID"] = true
+L["Not Found"] = true
 
 -- Aura monitor
 L["Aura Monitor"] = true
