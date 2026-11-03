@@ -34,3 +34,4 @@ L["Channel Menu for %s"] = true
 L["Chat Channels Window"] = true
 L["Read Tooltip of %s"] = true
 L["Link %s in Chat"] = true
+L["Chat Settings"] = true

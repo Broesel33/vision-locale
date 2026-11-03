@@ -8,3 +8,4 @@ L["Per-Error Filter"] = true
 L["Show All Known Errors"] = true
 L["Speech and Sound"] = true
 L["Muted"] = true
+L["Lua error"] = true

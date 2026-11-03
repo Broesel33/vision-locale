@@ -103,3 +103,5 @@ L["No tracked cooldowns"] = "Keine verfolgten Abklingzeiten"
 
 -- Keybindings
 L["Toggle All Monitors"] = "Alle Monitore ein- oder ausschalten"
+L["Monitors on"] = "Monitore an"
+L["Monitors off"] = "Monitore aus"
