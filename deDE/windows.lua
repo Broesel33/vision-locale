@@ -166,6 +166,8 @@ L["Role Poll"] = "Rollenabfrage"
 L["Tank"] = "Tank"
 L["Healer"] = "Heiler"
 L["Damage Dealer"] = "Schadensausteiler"
+L["Leader"] = "Anführer"
+L["Partially Checked"] = "Teilweise ausgewählt"
 
 --Quest
 L["Quest Window"] = "Questfenster"

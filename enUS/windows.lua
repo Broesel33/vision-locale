@@ -131,6 +131,8 @@ L["Role Poll"] = true
 L["Tank"] = true
 L["Healer"] = true
 L["Damage Dealer"] = true
+L["Leader"] = true
+L["Partially Checked"] = true
 
 --Quest
 L["Quest Window"] = true

@@ -132,6 +132,8 @@ L["Role Poll"] = "Vérification des rôles"
 L["Tank"] = "Tank"
 L["Healer"] = "Soigneur"
 L["Damage Dealer"] = "Dégâts"
+L["Leader"] = "Chef"
+L["Partially Checked"] = "Partiellement cochée"
 
 --Quest
 L["Quest Window"] = "Fenêtre de quête"
