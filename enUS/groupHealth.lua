@@ -20,5 +20,6 @@ L["Repeat Every (seconds, 0 is off)"] = true
 L["Speak Group Health"] = true
 L["Group health monitor unavailable here"] = true
 L["Nobody to watch"] = true
+L["This screen reader voice does not play the health pitch. For the pitch, choose a Windows voice such as Microsoft Zira in the Voice setting."] = true
 L["dead"] = true
 L["full"] = true

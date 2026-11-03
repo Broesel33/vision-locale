@@ -21,5 +21,6 @@ L["Repeat Every (seconds, 0 is off)"] = "Répéter toutes les (secondes, 0 désa
 L["Speak Group Health"] = "Annoncer la santé du groupe"
 L["Group health monitor unavailable here"] = "Moniteur de santé du groupe indisponible ici"
 L["Nobody to watch"] = "Personne à surveiller"
+L["This screen reader voice does not play the health pitch. For the pitch, choose a Windows voice such as Microsoft Zira in the Voice setting."] = "Cette voix de lecteur d'écran ne joue pas la hauteur de la vie. Pour la hauteur, choisissez une voix Windows comme Microsoft Hortense dans le réglage Voix."
 L["dead"] = "mort"
 L["full"] = "plein"
