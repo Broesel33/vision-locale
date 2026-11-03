@@ -18,6 +18,11 @@ L["Attacking You or Your Group"] = true
 L["Attacking You"] = true
 L["Count Elite Enemies Only"] = true
 L["Turn on enemy nameplates to count enemies"] = true
+L["Announce Crowd Control"] = true
+L["With Spell Names"] = true
+L["Without Names"] = true
+L["Crowd Control Ended Alert"] = true
+L["controlled"] = true
 
 L["Game Menu"] = true
 L["Windows"] = true
