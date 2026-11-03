@@ -237,3 +237,4 @@ L["Number"] = true
 L["Radio"] = true
 L["Scope"] = true
 L["Global"] = true
+L["Glyphs not yet implemented"] = true

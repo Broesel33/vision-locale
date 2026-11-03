@@ -287,3 +287,5 @@ L["You are targeting yourself"] = true
 L["Your target's position is not known"] = true
 L["No route to your target"] = true
 L["Your floor is not clear here. Choose your start."] = true
+L["no entry"] = true
+L["unreachable"] = true

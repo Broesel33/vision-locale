@@ -109,3 +109,5 @@ L["No tracked cooldowns"] = true
 
 -- Keybindings
 L["Toggle All Monitors"] = true
+L["Monitors on"] = true
+L["Monitors off"] = true

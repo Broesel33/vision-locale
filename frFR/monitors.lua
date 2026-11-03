@@ -110,3 +110,5 @@ L["No tracked cooldowns"] = "Aucun temps de recharge suivi"
 
 -- Keybindings
 L["Toggle All Monitors"] = "Activer/désactiver tous les moniteurs"
+L["Monitors on"] = "Moniteurs activés"
+L["Monitors off"] = "Moniteurs désactivés"
