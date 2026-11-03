@@ -43,5 +43,10 @@ L["default"] = true
 
 L["Virtual Focus"] = true
 L["Target Focus"] = true
+L["Target Crowd Control"] = true
+L["Controlled Sound"] = true
+L["Free Sound"] = true
+L["Controlled"] = true
+L["Free"] = true
 L["Open Target Menu"] = true
 L["Game Default"] = true
