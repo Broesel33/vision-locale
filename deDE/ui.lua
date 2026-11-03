@@ -20,6 +20,8 @@ L["Attacking You"] = "Die dich angreifen"
 L["Count Elite Enemies Only"] = "Nur Elitegegner zählen"
 L["Turn on enemy nameplates to count enemies"] = "Schalte die Namensplaketten für Feinde ein, um Gegner zu zählen"
 L["Announce Crowd Control"] = "Kontrolleffekte ansagen"
+L["With Spell Names"] = "Mit Zaubernamen"
+L["Without Names"] = "Ohne Namen"
 L["Crowd Control Ended Alert"] = "Kontrolle-beendet-Alarm"
 L["controlled"] = "kontrolliert"
 
