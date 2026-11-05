@@ -3,6 +3,8 @@ local L = WowVision:translate("enUS")
 L["Navigation"] = true
 L["Auto-move to Interact Target"] = true
 L["Automatically Navigate to Corpse"] = true
+L["Announce Remaining Waypoints"] = true
+L["%d remaining"] = true
 
 --Compass
 L["Compass"] = true
@@ -55,6 +57,10 @@ L["Beacon set"] = true
 L["Beacon stopped"] = true
 L["Start the Route Again From Here"] = true
 L["No route to start again"] = true
+L["Reverse Route"] = true
+L["No route to reverse"] = true
+L["Route reversed, back to %s"] = true
+L["the start of the previous route"] = true
 L["Entry Points"] = true
 L["Direct"] = true
 L["Direct: %s, %d yards"] = true
