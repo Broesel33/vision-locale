@@ -307,3 +307,8 @@ L["Minimize"] = "Minimieren"
 -- Classic guild window (guild tab of the friends window, TBC Anniversary)
 L["Rank Name"] = "Rangname"
 L["Permissions"] = "Rechte"
+
+-- Group invitation (accepted also in combat)
+L["Accept Group Invitation"] = "Gruppeneinladung annehmen"
+L["Group invitation accepted"] = "Gruppeneinladung angenommen"
+L["No group invitation"] = "Keine Gruppeneinladung"
