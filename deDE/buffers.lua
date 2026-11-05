@@ -20,6 +20,8 @@ L["Aura Buffer"] = "Aura-Puffer"
 L["Auras"] = "Auren"
 L["Sources"] = "Quellen"
 L["Only My Auras"] = "Nur meine Auren"
+L["Speak Time Remaining"] = "Verbleibende Zeit ansagen"
+L["Speak Description"] = "Beschreibung ansagen"
 -- Aura buffer filters (the game's aura filter strings)
 L["Any"] = "Egal"
 L["Only"] = "Nur diese"

@@ -19,6 +19,8 @@ L["Aura Buffer"] = true
 L["Auras"] = true
 L["Sources"] = true
 L["Only My Auras"] = true
+L["Speak Time Remaining"] = true
+L["Speak Description"] = true
 -- Aura buffer filters (the game's aura filter strings)
 L["Any"] = true
 L["Only"] = true
