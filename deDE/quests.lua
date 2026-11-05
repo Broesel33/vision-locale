@@ -51,7 +51,6 @@ L["Quest Area Alert"] = "Questgebiet"
 L["Entering area"] = "Betrete Gebiet"
 L["Leaving area"] = "Verlasse Gebiet"
 
--- Quest progress (objective counts, finished objectives, quests ready to turn in)
+-- Quest progress (the game's progress messages)
 L["Quest Progress Alert"] = "Questfortschritt"
-L["Objective Complete Alert"] = "Ziel erreicht"
 L["Quest Complete Alert"] = "Quest abgeschlossen"
