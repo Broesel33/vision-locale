@@ -5,6 +5,13 @@ L["WowVision"] = "WowVision"
 L["UI"] = "Benutzeroberfläche"
 L["Interrupt Speech on Window Close"] = "Sprache beim Schließen des Fensters unterbrechen"
 L["Letter Navigation in Menus"] = "Buchstaben-Navigation in Menüs"
+L["WowVision Sound Channel"] = "WowVision-Soundkanal"
+L["Master"] = "Gesamt"
+L["Sound Effects"] = "Soundeffekte"
+L["Music"] = "Musik"
+L["Ambience"] = "Umgebung"
+L["Dialog"] = "Dialog"
+L["Talking Head"] = "Sprechender Kopf"
 L["No results"] = "Keine Ergebnisse"
 
 --Combat
