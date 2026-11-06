@@ -11,7 +11,9 @@ L["Sound Effects"] = "Soundeffekte"
 L["Music"] = "Musik"
 L["Ambience"] = "Umgebung"
 L["Dialog"] = "Dialog"
-L["Talking Head"] = "Sprechender Kopf"
+L["Gameplay Sound Effects"] = "Gameplay-Soundeffekte"
+L["Ping Sounds"] = "Ping-Sounds"
+L["Combat Warnings"] = "Kampfwarnungen"
 L["No results"] = "Keine Ergebnisse"
 
 --Combat
