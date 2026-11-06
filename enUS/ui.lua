@@ -5,6 +5,7 @@ L["UI"] = true
 L["Interrupt Speech on Window Close"] = true
 L["Letter Navigation in Menus"] = true
 L["No results"] = true
+L["Press Enter again"] = true
 
 --Combat
 L["Combat"] = true
