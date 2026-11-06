@@ -5,7 +5,7 @@ L["UI"] = true
 L["Interrupt Speech on Window Close"] = true
 L["Letter Navigation in Menus"] = true
 L["No results"] = true
-L["Press Enter again"] = true
+L["Reload, then search settings for Discord, to use this"] = true
 
 --Combat
 L["Combat"] = true
