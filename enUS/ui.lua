@@ -11,8 +11,6 @@ L["Music"] = true
 L["Ambience"] = true
 L["Dialog"] = true
 L["Gameplay Sound Effects"] = true
-L["Ping Sounds"] = true
-L["Combat Warnings"] = true
 L["No results"] = true
 
 --Combat
