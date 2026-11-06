@@ -13,5 +13,3 @@ L["Graveyards"] = true
 L["Not dead"] = true
 L["Navigate to Nearest"] = true
 L["Nothing to navigate to"] = true
-L["Show in Scanner"] = true
-L["Not in the scanner"] = true
