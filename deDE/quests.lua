@@ -55,3 +55,7 @@ L["Leaving area"] = "Verlasse Gebiet"
 L["Quest Progress Alert"] = "Questfortschritt"
 L["Quest Progress Sound"] = "Ton bei Fortschritt"
 L["Quest Complete Sound"] = "Ton bei abgeschlossener Quest"
+
+-- Quest tooltip in the scanner (Shift+Down on a quest)
+L["Required Level"] = "Benötigte Stufe"
+L["%d players"] = "%d Spieler"

@@ -55,3 +55,7 @@ L["Leaving area"] = true
 L["Quest Progress Alert"] = true
 L["Quest Progress Sound"] = true
 L["Quest Complete Sound"] = true
+
+-- Quest tooltip in the scanner (Shift+Down on a quest)
+L["Required Level"] = true
+L["%d players"] = true
