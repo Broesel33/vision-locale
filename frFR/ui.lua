@@ -6,12 +6,6 @@ L["UI"] = "Interface"
 L["Interrupt Speech on Window Close"] = "Interrompre la parole à la fermeture d'une fenêtre"
 L["Letter Navigation in Menus"] = "Navigation par lettres dans les menus"
 L["WowVision Sound Channel"] = "Canal sonore de WowVision"
-L["Master"] = "Général"
-L["Sound Effects"] = "Effets sonores"
-L["Music"] = "Musique"
-L["Ambience"] = "Ambiance"
-L["Dialog"] = "Dialogues"
-L["Gameplay Sound Effects"] = "Effets sonores du jeu"
 L["No results"] = "Aucun résultat"
 
 --Combat
