@@ -239,3 +239,7 @@ L["Radio"] = "Bouton radio"
 L["Scope"] = "Portée"
 L["Global"] = "Global"
 L["Glyphs not yet implemented"] = "Glyphes pas encore implémentés"
+
+-- Same English word as Disabled / Available, but a different word in some languages
+L["SettingDisabled"] = "Désactivé"
+L["AuctionAvailable"] = "Disponible"
