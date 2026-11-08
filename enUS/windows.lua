@@ -205,6 +205,7 @@ L["Favorite"] = true
 
 --Training
 L["Training"] = true
+L["Training point cost: %d"] = true
 L["Macro Text"] = true
 L["Friends"] = true
 L["Away"] = true
