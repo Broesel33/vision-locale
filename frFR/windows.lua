@@ -206,6 +206,7 @@ L["Favorite"] = "Favori"
 
 --Training
 L["Training"] = "Entraînement"
+L["Training point cost: %d"] = "Coût en points d'entraînement : %d"
 L["Macro Text"] = "Texte de la macro"
 L["Friends"] = "Amis"
 L["Away"] = "Absent"
