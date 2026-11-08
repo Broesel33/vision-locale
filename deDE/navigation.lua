@@ -39,7 +39,7 @@ L["Play Sound on Follow or Unfollow"] = "Sound bei Folgen oder Entfolgen abspiel
 
 --Maps
 L["Maps"] = "Karten"
-L["Beacon Settings"] = "Beacon-Einstellungen"
+L["Beacon and Routes"] = "Beacon und Routen"
 L["Zone Changed Alert"] = "Gebietsänderungs-Alarm"
 L["Subzone Changed Alert"] = "Untergebietsänderungs-Alarm"
 L["Beacon"] = "Beacon"

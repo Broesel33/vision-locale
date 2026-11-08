@@ -37,7 +37,7 @@ L["Play Sound on Follow or Unfollow"] = "Jouer un son au début ou à la fin du 
 
 --Maps
 L["Maps"] = "Cartes"
-L["Beacon Settings"] = "Réglages de la balise"
+L["Beacon and Routes"] = "Balise et itinéraires"
 L["Zone Changed Alert"] = "Alerte changement de zone"
 L["Subzone Changed Alert"] = "Alerte changement de sous-zone"
 L["Beacon"] = "Balise"

@@ -36,7 +36,7 @@ L["Play Sound on Follow or Unfollow"] = true
 
 --Maps
 L["Maps"] = true
-L["Beacon Settings"] = true
+L["Beacon and Routes"] = true
 L["Zone Changed Alert"] = true
 L["Subzone Changed Alert"] = true
 L["Beacon"] = true
