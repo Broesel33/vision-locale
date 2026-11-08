@@ -239,3 +239,7 @@ L["Radio"] = true
 L["Scope"] = true
 L["Global"] = true
 L["Glyphs not yet implemented"] = true
+
+-- Same English word as Disabled / Available, but a different word in some languages
+L["SettingDisabled"] = "Disabled"
+L["AuctionAvailable"] = "Available"
