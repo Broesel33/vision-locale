@@ -3,6 +3,7 @@ local L = WowVision:translate("enUS")
 L["WowVision"] = true
 L["UI"] = true
 L["Interrupt Speech on Window Close"] = true
+L["Sounds on Opening and Closing WowVision Menus"] = true
 L["Letter Navigation in Menus"] = true
 L["WowVision Sound Channel"] = true
 L["Skip Empty Slots on Double Arrow"] = true

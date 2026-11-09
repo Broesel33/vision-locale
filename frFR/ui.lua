@@ -4,6 +4,7 @@ if not L then return end
 L["WowVision"] = "WowVision"
 L["UI"] = "Interface"
 L["Interrupt Speech on Window Close"] = "Interrompre la parole à la fermeture d'une fenêtre"
+L["Sounds on Opening and Closing WowVision Menus"] = "Sons à l'ouverture et à la fermeture des menus WowVision"
 L["Letter Navigation in Menus"] = "Navigation par lettres dans les menus"
 L["WowVision Sound Channel"] = "Canal sonore de WowVision"
 L["Skip Empty Slots on Double Arrow"] = "Sauter les emplacements vides par double appui sur une flèche"
