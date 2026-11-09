@@ -11,6 +11,7 @@ L["Quality"] = true
 L["Compare"] = true
 L["Pawn Summary"] = true
 L["Compare With Equipped Item"] = true
+L["Game"] = true
 L["Pawn: %s, %s"] = true
 L["upgrade of %d percent"] = true
 L["big upgrade"] = true

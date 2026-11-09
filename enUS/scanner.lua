@@ -10,6 +10,5 @@ L["Error"] = true
 L["Player"] = true
 L["Corpse"] = true
 L["Graveyards"] = true
-L["Not dead"] = true
 L["Navigate to Nearest"] = true
 L["Nothing to navigate to"] = true
