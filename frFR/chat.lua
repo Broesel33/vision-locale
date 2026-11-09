@@ -7,6 +7,7 @@ L["Chat Tab %d"] = "Onglet de discussion %d"
 L["Whisper Tabs"] = "Onglets de chuchotement"
 L["Speak Messages"] = "Lire les messages"
 L["When the Tab Is Shown"] = "Quand l'onglet est affiché"
+L["Addon Messages in Chat"] = "Messages de l'addon dans la discussion"
 
 -- Chat line parts (the clickable pieces of a message)
 L["Previous Link in Message"] = "Lien précédent du message"
