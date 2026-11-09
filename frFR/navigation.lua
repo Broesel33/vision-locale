@@ -5,6 +5,7 @@ L["Navigation"] = "Navigation"
 L["Auto-move to Interact Target"] = "Aller automatiquement à la cible d'interaction"
 L["Automatically Navigate to Corpse"] = "Naviguer automatiquement vers le cadavre"
 L["Announce Remaining Waypoints"] = "Annoncer les points de passage restants"
+L["Close All Windows When a Route Starts"] = "Fermer toutes les fenêtres au démarrage d'un itinéraire"
 L["%d remaining"] = "encore %d"
 
 --Compass
