@@ -55,3 +55,5 @@ L["unavailable"] = "nicht verfügbar"
 -- Dynamic Buffers
 L["General"] = "Allgemein"
 L["Invert Item Direction"] = "Elementrichtung umkehren"
+L["Always Start at Top"] = "Immer oben beginnen"
+L["Sounds When Opening and Closing"] = "Töne beim Öffnen und Schließen"

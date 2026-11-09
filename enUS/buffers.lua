@@ -54,3 +54,5 @@ L["unavailable"] = true
 -- Dynamic Buffers
 L["General"] = true
 L["Invert Item Direction"] = true
+L["Always Start at Top"] = true
+L["Sounds When Opening and Closing"] = true
