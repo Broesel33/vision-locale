@@ -57,3 +57,7 @@ L["Leaving area"] = "Sortie de la zone"
 L["Quest Progress Alert"] = "Progression de quête"
 L["Objective Complete Alert"] = "Objectif terminé"
 L["Quest Complete Alert"] = "Quête terminée"
+
+-- Quest tooltip in the scanner (Shift+Down on a quest)
+L["Required Level"] = "Niveau requis"
+L["%d players"] = "%d joueurs"
