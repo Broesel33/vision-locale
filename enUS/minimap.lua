@@ -34,6 +34,8 @@ L["turned"] = true
 L["combat"] = true
 L["mouse"] = true
 L["mouselook"] = true
+-- the scan stopped: a spell waits to be placed on the ground
+L["targeting"] = true
 L["window"] = true
 L["Turn on friendly NPC nameplates to learn NPC names"] = true
 L["Points of Interest"] = true
