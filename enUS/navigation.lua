@@ -30,6 +30,8 @@ L["Swimming Alert"] = true
 L["swimming"] = true
 L["Diving Alert"] = true
 L["diving"] = true
+L["Breath Alert"] = true
+L["Breath Step"] = true
 
 --Follow
 L["Follow"] = true

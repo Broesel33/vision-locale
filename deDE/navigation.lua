@@ -33,6 +33,8 @@ L["Swimming Alert"] = "Schwimm-Alarm"
 L["swimming"] = "schwimmen"
 L["Diving Alert"] = "Tauch-Alarm"
 L["diving"] = "tauchen"
+L["Breath Alert"] = "Atem-Alarm"
+L["Breath Step"] = "Atem-Schritt"
 
 --Follow
 L["Follow"] = "Folgen"
