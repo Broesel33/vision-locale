@@ -9,6 +9,7 @@ L["%d remaining"] = true
 
 --Compass
 L["Compass"] = true
+L["Environmental Alerts"] = true
 L["Speak Compass Direction"] = true
 L["north"] = true
 L["northeast"] = true

@@ -12,6 +12,7 @@ L["Corpse"] = "Leiche"
 
 --Compass
 L["Compass"] = "Kompass"
+L["Environmental Alerts"] = "Umwelt-Alarme"
 L["Speak Compass Direction"] = "Kompassrichtung ansagen"
 L["north"] = "Norden"
 L["northeast"] = "Nordosten"

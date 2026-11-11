@@ -10,6 +10,7 @@ L["%d remaining"] = "encore %d"
 
 --Compass
 L["Compass"] = "Boussole"
+L["Environmental Alerts"] = "Alertes d'environnement"
 L["Speak Compass Direction"] = "Annoncer la direction de la boussole"
 L["north"] = "nord"
 L["northeast"] = "nord-est"
