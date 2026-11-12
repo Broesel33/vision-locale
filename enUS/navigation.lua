@@ -96,6 +96,7 @@ L["No nameplate"] = true
 L["Lost the nameplate"] = true
 L["Nameplate position is hidden here"] = true
 L["Could not turn to it"] = true
+L["Friendly nameplates are hidden here"] = true
 L["Pitch Lock"] = true
 L["WowVision set the camera to always follow behind your character, which turning to waypoints needs. You can change the camera following style in the game options under Controls."] = true
 L["No active waypoint"] = true
