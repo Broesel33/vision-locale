@@ -11,6 +11,7 @@ L["All windows closed"] = true
 L["Close All Windows"] = true
 L["WowVision Sound Channel"] = true
 L["Skip Empty Slots on Double Arrow"] = true
+L["Sound at the Start and End of Lists"] = true
 L["No results"] = true
 L["Reload, then search settings for Discord, to use this"] = true
 
