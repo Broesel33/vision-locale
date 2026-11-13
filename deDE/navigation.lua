@@ -12,6 +12,7 @@ L["Corpse"] = "Leiche"
 
 --Compass
 L["Compass"] = "Kompass"
+L["Environmental Alerts"] = "Umwelt-Alarme"
 L["Speak Compass Direction"] = "Kompassrichtung ansagen"
 L["north"] = "Norden"
 L["northeast"] = "Nordosten"
@@ -33,6 +34,8 @@ L["Swimming Alert"] = "Schwimm-Alarm"
 L["swimming"] = "schwimmen"
 L["Diving Alert"] = "Tauch-Alarm"
 L["diving"] = "tauchen"
+L["Breath Alert"] = "Atem-Alarm"
+L["Breath Step"] = "Atem-Schritt"
 
 --Follow
 L["Follow"] = "Folgen"

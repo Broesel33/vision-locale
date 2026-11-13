@@ -10,6 +10,7 @@ L["%d remaining"] = "encore %d"
 
 --Compass
 L["Compass"] = "Boussole"
+L["Environmental Alerts"] = "Alertes d'environnement"
 L["Speak Compass Direction"] = "Annoncer la direction de la boussole"
 L["north"] = "nord"
 L["northeast"] = "nord-est"
@@ -31,6 +32,8 @@ L["Swimming Alert"] = "Alerte nage"
 L["swimming"] = "nage"
 L["Diving Alert"] = "Alerte plongée"
 L["diving"] = "plongée"
+L["Breath Alert"] = "Alerte souffle"
+L["Breath Step"] = "Pas du souffle"
 
 --Follow
 L["Follow"] = "Suivre"
