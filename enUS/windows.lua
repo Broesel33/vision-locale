@@ -314,3 +314,4 @@ L["Permissions"] = true
 L["Accept Group Invitation"] = true
 L["Group invitation accepted"] = true
 L["No group invitation"] = true
+L["Choose a role first"] = true
