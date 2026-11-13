@@ -79,6 +79,7 @@ L["Page"] = true
 L["Previous Page"] = true
 L["Next Page"] = true
 L["Add"] = true
+L["Copy"] = true
 L["Remove"] = true
 L["Unlearn"] = true
 

@@ -79,6 +79,7 @@ L["Page"] = "Seite"
 L["Previous Page"] = "Vorherige Seite"
 L["Next Page"] = "Nächste Seite"
 L["Add"] = "Hinzufügen"
+L["Copy"] = "Kopie"
 L["Remove"] = "Entfernen"
 L["Unlearn"] = "Verlernen"
 
