@@ -262,6 +262,7 @@ L["Already set:"] = true
 L["Could not set:"] = true
 L["Auto Loot"] = true
 L["Offscreen Nameplates"] = true
+L["Friendly NPC Nameplates"] = true
 L["All Action Bars"] = true
 L["Audio Assist"] = true
 L["Audio Assist Combat Start"] = true
