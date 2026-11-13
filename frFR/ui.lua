@@ -12,6 +12,7 @@ L["All windows closed"] = "Toutes les fenêtres fermées"
 L["Close All Windows"] = "Fermer toutes les fenêtres"
 L["WowVision Sound Channel"] = "Canal sonore de WowVision"
 L["Skip Empty Slots on Double Arrow"] = "Sauter les emplacements vides par double appui sur une flèche"
+L["Sound at the Start and End of Lists"] = "Son au début et à la fin des listes"
 L["No results"] = "Aucun résultat"
 
 --Combat

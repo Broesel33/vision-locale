@@ -12,6 +12,7 @@ L["All windows closed"] = "Alle Fenster geschlossen"
 L["Close All Windows"] = "Alle Fenster schließen"
 L["WowVision Sound Channel"] = "WowVision-Soundkanal"
 L["Skip Empty Slots on Double Arrow"] = "Leere Plätze beim doppelten Pfeildruck überspringen"
+L["Sound at the Start and End of Lists"] = "Ton am Anfang und Ende von Listen"
 L["No results"] = "Keine Ergebnisse"
 
 --Combat
