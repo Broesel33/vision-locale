@@ -20,6 +20,7 @@ L["gone"] = true
 L["Nothing new nearby"] = true
 L["Scan already running"] = true
 L["Minimap scanner not available on this client"] = true
+L["Due to Blizzard restrictions the minimap scanner is unavailable."] = true
 L["Not in combat"] = true
 L["Stand still to scan"] = true
 L["Stop mouselook to scan"] = true
