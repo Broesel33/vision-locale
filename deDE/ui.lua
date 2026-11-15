@@ -15,6 +15,7 @@ L["Skip Empty Slots on Double Arrow"] = "Leere Plätze beim doppelten Pfeildruck
 L["Menus in Combat"] = "Menüs im Kampf"
 L["No menu open, Escape gives the keys back"] = "Kein Menü offen, Escape gibt die Tasten zurück"
 L["Not available in combat"] = "Im Kampf nicht verfügbar"
+L["To answer, press"] = "Zum Antworten drücke"
 L["To pick up items in a fight, open your bags once more out of combat"] = "Um im Kampf Gegenstände aufzuheben, öffne deine Taschen außerhalb des Kampfes noch einmal"
 L["Bag layout changed, Enter may pick up the wrong item"] = "Taschenanordnung geändert, Enter hebt vielleicht den falschen Gegenstand auf"
 L["Pending Windows"] = "Ausstehende Fenster"

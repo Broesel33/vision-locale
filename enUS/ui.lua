@@ -14,6 +14,7 @@ L["Skip Empty Slots on Double Arrow"] = true
 L["Menus in Combat"] = true
 L["No menu open, Escape gives the keys back"] = true
 L["Not available in combat"] = true
+L["To answer, press"] = true
 L["To pick up items in a fight, open your bags once more out of combat"] = true
 L["Bag layout changed, Enter may pick up the wrong item"] = true
 L["Pending Windows"] = true
