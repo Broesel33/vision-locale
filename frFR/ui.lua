@@ -15,7 +15,8 @@ L["Skip Empty Slots on Double Arrow"] = "Sauter les emplacements vides par doubl
 L["Menus in Combat"] = "Menus en combat"
 L["No menu open, Escape gives the keys back"] = "Aucun menu ouvert, Échap rend les touches"
 L["Not available in combat"] = "Indisponible en combat"
-L["To move items in a fight, open the bags before it"] = "Pour déplacer des objets en combat, ouvrez les sacs avant le combat"
+L["To pick up items in a fight, open your bags once more out of combat"] = "Pour ramasser des objets en combat, ouvrez encore une fois vos sacs hors combat"
+L["Bag layout changed, Enter may pick up the wrong item"] = "Disposition des sacs modifiée, Entrée peut prendre le mauvais objet"
 L["Sound at the Start and End of Lists"] = "Son au début et à la fin des listes"
 L["No results"] = "Aucun résultat"
 
