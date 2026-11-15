@@ -136,3 +136,4 @@ L["Number Only (40)"] = true
 L["Tenths Only (4)"] = true
 L["Minimum Time Between Messages (seconds)"] = true
 L["Speak Main Resource"] = true
+L["No steps yet"] = true
