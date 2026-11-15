@@ -14,6 +14,7 @@ L["Skip Empty Slots on Double Arrow"] = true
 L["Menus in Combat"] = true
 L["No menu open, Escape gives the keys back"] = true
 L["Not available in combat"] = true
+L["To move items in a fight, open the bags before it"] = true
 L["Sound at the Start and End of Lists"] = true
 L["No results"] = true
 L["Reload, then search settings for Discord, to use this"] = true
