@@ -113,3 +113,27 @@ L["No tracked cooldowns"] = true
 L["Toggle All Monitors"] = true
 L["Monitors on"] = true
 L["Monitors off"] = true
+
+-- Resource monitor
+L["Resource"] = true
+L["Steps"] = true
+L["Step"] = true
+L["Step Value (Count or Percent)"] = true
+L["Steps (Bars)"] = true
+L["Every %d%%"] = true
+L["Step Sounds"] = true
+L["Glass"] = true
+L["Brass"] = true
+L["Water Drop"] = true
+L["Stuck"] = true
+L["Rising Notes"] = true
+L["Sound on Every Step"] = true
+L["Speech on Every Step"] = true
+L["Speech Format"] = true
+L["Name and Percent (Mana 40%)"] = true
+L["Name and Number (Mana 40)"] = true
+L["Name and Tenths (Mana 4)"] = true
+L["Percent Only (40%)"] = true
+L["Number Only (40)"] = true
+L["Tenths Only (4)"] = true
+L["Minimum Time Between Messages (seconds)"] = true
