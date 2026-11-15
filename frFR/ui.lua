@@ -128,6 +128,12 @@ L["Spells"] = "Sorts"
 L["Spell Flyout"] = "Menu de sorts"
 L["Enchant"] = "Enchanter"
 L["Trade"] = "Échange"
+L["Accept Trade"] = "Accepter l'échange"
+L["No trade open"] = "Aucun échange ouvert"
+L["Already accepted, waiting for"] = "Déjà accepté, en attente de"
+L["Trade cannot be accepted now"] = "L'échange ne peut pas être accepté maintenant"
+L["Trade accepted"] = "Échange accepté"
+L["Confirm the trade in the game's security window"] = "Confirmez l'échange dans la fenêtre de sécurité du jeu"
 
 --Colors
 L["Red"] = "Rouge"

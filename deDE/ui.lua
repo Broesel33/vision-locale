@@ -128,6 +128,12 @@ L["Spells"] = "Zauber"
 L["Spell Flyout"] = "Zauberauswahl"
 L["Enchant"] = "Verzauberung"
 L["Trade"] = "Handel"
+L["Accept Trade"] = "Handel annehmen"
+L["No trade open"] = "Kein Handel offen"
+L["Already accepted, waiting for"] = "Bereits angenommen, warte auf"
+L["Trade cannot be accepted now"] = "Handel kann gerade nicht angenommen werden"
+L["Trade accepted"] = "Handel angenommen"
+L["Confirm the trade in the game's security window"] = "Bestätige den Handel im Sicherheitsfenster des Spiels"
 
 --Colors
 L["Red"] = "Rot"

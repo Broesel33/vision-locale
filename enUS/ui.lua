@@ -128,6 +128,12 @@ L["Spells"] = true
 L["Spell Flyout"] = true
 L["Enchant"] = true
 L["Trade"] = true
+L["Accept Trade"] = true
+L["No trade open"] = true
+L["Already accepted, waiting for"] = true
+L["Trade cannot be accepted now"] = true
+L["Trade accepted"] = true
+L["Confirm the trade in the game's security window"] = true
 
 --Colors
 L["Red"] = true
