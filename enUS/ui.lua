@@ -133,7 +133,10 @@ L["No trade open"] = true
 L["Already accepted, waiting for"] = true
 L["Trade cannot be accepted now"] = true
 L["Trade accepted"] = true
-L["Confirm the trade in the game's security window"] = true
+L["Security confirmation WowVision cannot reach: use the mouse, or cancel and trade again"] = true
+L["The game asks for a security confirmation for this mail that WowVision cannot reach"] = true
+L["Answer the popup about the enchant first"] = true
+L["changed the offer"] = true
 
 --Colors
 L["Red"] = true

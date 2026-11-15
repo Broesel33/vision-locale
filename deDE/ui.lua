@@ -133,7 +133,10 @@ L["No trade open"] = "Kein Handel offen"
 L["Already accepted, waiting for"] = "Bereits angenommen, warte auf"
 L["Trade cannot be accepted now"] = "Handel kann gerade nicht angenommen werden"
 L["Trade accepted"] = "Handel angenommen"
-L["Confirm the trade in the game's security window"] = "Bestätige den Handel im Sicherheitsfenster des Spiels"
+L["Security confirmation WowVision cannot reach: use the mouse, or cancel and trade again"] = "Sicherheitsabfrage, die WowVision nicht erreicht: benutze die Maus, oder brich ab und handle neu"
+L["The game asks for a security confirmation for this mail that WowVision cannot reach"] = "Das Spiel verlangt für diese Post eine Sicherheitsabfrage, die WowVision nicht erreicht"
+L["Answer the popup about the enchant first"] = "Beantworte zuerst das Popup zur Verzauberung"
+L["changed the offer"] = "hat das Angebot geändert"
 
 --Colors
 L["Red"] = "Rot"

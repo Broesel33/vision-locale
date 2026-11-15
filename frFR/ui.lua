@@ -133,7 +133,10 @@ L["No trade open"] = "Aucun échange ouvert"
 L["Already accepted, waiting for"] = "Déjà accepté, en attente de"
 L["Trade cannot be accepted now"] = "L'échange ne peut pas être accepté maintenant"
 L["Trade accepted"] = "Échange accepté"
-L["Confirm the trade in the game's security window"] = "Confirmez l'échange dans la fenêtre de sécurité du jeu"
+L["Security confirmation WowVision cannot reach: use the mouse, or cancel and trade again"] = "Confirmation de sécurité que WowVision ne peut pas atteindre : utilisez la souris, ou annulez et échangez à nouveau"
+L["The game asks for a security confirmation for this mail that WowVision cannot reach"] = "Le jeu demande pour ce courrier une confirmation de sécurité que WowVision ne peut pas atteindre"
+L["Answer the popup about the enchant first"] = "Répondez d'abord à la fenêtre sur l'enchantement"
+L["changed the offer"] = "a modifié l'offre"
 
 --Colors
 L["Red"] = "Rouge"
