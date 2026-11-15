@@ -117,8 +117,6 @@ L["Monitors off"] = true
 -- Resource monitor
 L["Resource"] = true
 L["Steps"] = true
-L["Step"] = true
-L["Step Value (Count or Percent)"] = true
 L["Steps (Bars)"] = true
 L["Every %d%%"] = true
 L["Step Sounds"] = true

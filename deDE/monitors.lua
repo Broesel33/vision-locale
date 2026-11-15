@@ -111,8 +111,6 @@ L["Monitors off"] = "Monitore aus"
 -- Resource monitor
 L["Resource"] = "Ressource"
 L["Steps"] = "Stufen"
-L["Step"] = "Stufe"
-L["Step Value (Count or Percent)"] = "Stufenwert (Anzahl oder Prozent)"
 L["Steps (Bars)"] = "Stufen (Leisten)"
 L["Every %d%%"] = "Alle %d%%"
 L["Step Sounds"] = "Stufenklänge"

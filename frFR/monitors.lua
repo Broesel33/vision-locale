@@ -118,8 +118,6 @@ L["Monitors off"] = "Moniteurs désactivés"
 -- Resource monitor
 L["Resource"] = "Ressource"
 L["Steps"] = "Paliers"
-L["Step"] = "Palier"
-L["Step Value (Count or Percent)"] = "Valeur du palier (nombre ou pourcentage)"
 L["Steps (Bars)"] = "Paliers (barres)"
 L["Every %d%%"] = "Tous les %d%%"
 L["Step Sounds"] = "Sons des paliers"
