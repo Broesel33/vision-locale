@@ -19,6 +19,7 @@ L["To use items, press"] = true
 L["No other window"] = true
 L["To pick up items in a fight, open your bags once more out of combat"] = true
 L["Bag layout changed, Enter may pick up the wrong item"] = true
+L["held as the menu took the keys. Close the menu and tap the key once to stop moving"] = true
 L["Pending Windows"] = true
 L["Escape and the Close All Windows Key"] = true
 L["Only the Close All Windows Key"] = true
