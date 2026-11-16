@@ -146,6 +146,15 @@ L["Spells"] = "Sorts"
 L["Spell Flyout"] = "Menu de sorts"
 L["Enchant"] = "Enchanter"
 L["Trade"] = "Échange"
+L["Accept Trade"] = "Accepter l'échange"
+L["No trade open"] = "Aucun échange ouvert"
+L["Already accepted, waiting for"] = "Déjà accepté, en attente de"
+L["Trade cannot be accepted now"] = "L'échange ne peut pas être accepté maintenant"
+L["Trade accepted"] = "Échange accepté"
+L["Security confirmation WowVision cannot reach: use the mouse, or cancel and trade again"] = "Confirmation de sécurité que WowVision ne peut pas atteindre : utilisez la souris, ou annulez et échangez à nouveau"
+L["The game asks for a security confirmation for this mail that WowVision cannot reach"] = "Le jeu demande pour ce courrier une confirmation de sécurité que WowVision ne peut pas atteindre"
+L["Answer the popup about the enchant first"] = "Répondez d'abord à la fenêtre sur l'enchantement"
+L["changed the offer"] = "a modifié l'offre"
 
 --Colors
 L["Red"] = "Rouge"
@@ -267,9 +276,10 @@ L["Scope"] = "Portée"
 L["Global"] = "Global"
 L["Glyphs not yet implemented"] = "Glyphes pas encore implémentés"
 
--- Same English word as Disabled / Available, but a different word in some languages
+-- Same English word as Disabled / Available / Copy, but a different word in some languages
 L["SettingDisabled"] = "Désactivé"
 L["AuctionAvailable"] = "Disponible"
+L["CopyName"] = "Copie"
 
 -- Apply Recommended Game Settings (core/ui modules/gameDefaults.lua)
 L["Apply Recommended Game Settings"] = "Appliquer les réglages de jeu recommandés"
