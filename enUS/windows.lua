@@ -205,6 +205,7 @@ L["Favorite"] = true
 
 --Training
 L["Training"] = true
+L["Training point cost: %d"] = true
 L["Macro Text"] = true
 L["Friends"] = true
 L["Away"] = true
@@ -313,3 +314,4 @@ L["Permissions"] = true
 L["Accept Group Invitation"] = true
 L["Group invitation accepted"] = true
 L["No group invitation"] = true
+L["Choose a role first"] = true

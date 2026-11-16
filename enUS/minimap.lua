@@ -20,6 +20,7 @@ L["gone"] = true
 L["Nothing new nearby"] = true
 L["Scan already running"] = true
 L["Minimap scanner not available on this client"] = true
+L["Due to Blizzard restrictions the minimap scanner is unavailable."] = true
 L["Not in combat"] = true
 L["Stand still to scan"] = true
 L["Stop mouselook to scan"] = true
@@ -34,6 +35,8 @@ L["turned"] = true
 L["combat"] = true
 L["mouse"] = true
 L["mouselook"] = true
+-- the scan stopped: a spell waits to be placed on the ground
+L["targeting"] = true
 L["window"] = true
 L["Turn on friendly NPC nameplates to learn NPC names"] = true
 L["Points of Interest"] = true

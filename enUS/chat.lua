@@ -6,6 +6,7 @@ L["Chat Tab %d"] = true
 L["Whisper Tabs"] = true
 L["Speak Messages"] = true
 L["When the Tab Is Shown"] = true
+L["Addon Messages in Chat"] = true
 
 -- Chat line parts (the clickable pieces of a message)
 L["Previous Link in Message"] = true

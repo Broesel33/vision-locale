@@ -49,11 +49,15 @@ L["scanned"] = true
 L["auctions"] = true
 L["items updated"] = true
 L["Auction Price"] = true
+L["Auction minimum"] = true
+L["Auction average"] = true
+L["Auction maximum"] = true
 L["Auction Prices"] = true
 L["Tooltip Prices"] = true
 L["Price Options"] = true
 L["Vendor Buy"] = true
 L["Vendor Sell"] = true
+L["Vendor price per item"] = true
 L["Day Mean"] = true
 L["Mean Days"] = true
 L["History Days"] = true
@@ -76,3 +80,9 @@ L["Sort"] = true
 L["Selected"] = true
 L["Create Auction"] = true
 L["Item Selected"] = true
+
+-- Scan result and cooldown wording
+L["Scan complete, %s Results in %s scanned"] = true
+L["%s min %s sec"] = true
+L["%s min"] = true
+L["%s sec"] = true

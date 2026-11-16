@@ -206,6 +206,7 @@ L["Favorite"] = "Favori"
 
 --Training
 L["Training"] = "Entraînement"
+L["Training point cost: %d"] = "Coût en points d'entraînement : %d"
 L["Macro Text"] = "Texte de la macro"
 L["Friends"] = "Amis"
 L["Away"] = "Absent"
@@ -314,3 +315,4 @@ L["Permissions"] = "Autorisations"
 L["Accept Group Invitation"] = "Accepter l'invitation de groupe"
 L["Group invitation accepted"] = "Invitation de groupe acceptée"
 L["No group invitation"] = "Aucune invitation de groupe"
+L["Choose a role first"] = "Choisissez d'abord un rôle"

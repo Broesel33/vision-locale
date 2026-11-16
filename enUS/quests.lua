@@ -3,6 +3,7 @@ local L = WowVision:translate("enUS")
 -- Quests module (Questie-backed quest data)
 L["Nearby Level Range"] = true
 L["Include Repeatable Quests"] = true
+L["Sort Quests by Proximity"] = true
 L["Questie is not loaded"] = true
 L["Questie is still loading"] = true
 L["No nearby quests"] = true
@@ -17,6 +18,20 @@ L["Unknown"] = true
 -- Scanner categories from quest and NPC data
 L["NPCs"] = true
 L["Nearby"] = true
+L["Available Quest Sound"] = true
+L["Turn-In Quest Sound"] = true
+L["Quest Objective Sound"] = true
+L["Available Quest Range"] = true
+L["Turn-In Quest Range"] = true
+L["Quest Objective Range"] = true
+L["Play Available Quests Once"] = true
+L["Play Turn-In Quests Once"] = true
+L["Play Quest Objectives Once"] = true
+L["Silence Distance"] = true
+L["Quest Sound Volume"] = true
+L["Quest available"] = true
+L["Quest to turn in"] = true
+L["Quest objective"] = true
 L["In Progress"] = true
 L["Quest Givers"] = true
 L["Vendors"] = true
@@ -50,3 +65,12 @@ L["seen"] = true
 L["Quest Area Alert"] = true
 L["Entering area"] = true
 L["Leaving area"] = true
+
+-- Quest progress (the game's progress messages)
+L["Quest Progress Alert"] = true
+L["Objective Complete Alert"] = true
+L["Quest Complete Alert"] = true
+
+-- Quest tooltip in the scanner (Shift+Down on a quest)
+L["Required Level"] = true
+L["%d players"] = true

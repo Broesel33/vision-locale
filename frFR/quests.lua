@@ -4,6 +4,7 @@ if not L then return end
 -- Quests module (Questie-backed quest data)
 L["Nearby Level Range"] = "Écart de niveau à proximité"
 L["Include Repeatable Quests"] = "Inclure les quêtes répétables"
+L["Sort Quests by Proximity"] = "Trier les quêtes par proximité"
 L["Questie is not loaded"] = "Questie n'est pas chargé"
 L["Questie is still loading"] = "Questie est encore en cours de chargement"
 L["No nearby quests"] = "Aucune quête à proximité"
@@ -51,3 +52,12 @@ L["seen"] = "vu"
 L["Quest Area Alert"] = "Alerte de zone de quête"
 L["Entering area"] = "Entrée dans la zone"
 L["Leaving area"] = "Sortie de la zone"
+
+-- Quest progress (the game's progress messages)
+L["Quest Progress Alert"] = "Progression de quête"
+L["Objective Complete Alert"] = "Objectif terminé"
+L["Quest Complete Alert"] = "Quête terminée"
+
+-- Quest tooltip in the scanner (Shift+Down on a quest)
+L["Required Level"] = "Niveau requis"
+L["%d players"] = "%d joueurs"

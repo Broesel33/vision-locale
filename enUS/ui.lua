@@ -3,7 +3,25 @@ local L = WowVision:translate("enUS")
 L["WowVision"] = true
 L["UI"] = true
 L["Interrupt Speech on Window Close"] = true
+L["Sounds on Opening and Closing WowVision Menus"] = true
 L["Letter Navigation in Menus"] = true
+L["Letter Navigation"] = true
+L["Filter removed"] = true
+L["All windows closed"] = true
+L["Close All Windows"] = true
+L["WowVision Sound Channel"] = true
+L["Skip Empty Slots on Double Arrow"] = true
+L["Pending Windows"] = true
+L["Escape and the Close All Windows Key"] = true
+L["Only the Close All Windows Key"] = true
+L["While this test popup is open, an Escape that goes to the game reports a blocked action"] = true
+L["Pending"] = true
+L["Pending test"] = true
+L["Group Invitation"] = true
+L["Resurrection"] = true
+L["Death"] = true
+L["timed out"] = true
+L["Sound at the Start and End of Lists"] = true
 L["No results"] = true
 L["Reload, then search settings for Discord, to use this"] = true
 
@@ -72,6 +90,7 @@ L["Page"] = true
 L["Previous Page"] = true
 L["Next Page"] = true
 L["Add"] = true
+L["Copy"] = true
 L["Remove"] = true
 L["Unlearn"] = true
 
@@ -119,6 +138,15 @@ L["Spells"] = true
 L["Spell Flyout"] = true
 L["Enchant"] = true
 L["Trade"] = true
+L["Accept Trade"] = true
+L["No trade open"] = true
+L["Already accepted, waiting for"] = true
+L["Trade cannot be accepted now"] = true
+L["Trade accepted"] = true
+L["Security confirmation WowVision cannot reach: use the mouse, or cancel and trade again"] = true
+L["The game asks for a security confirmation for this mail that WowVision cannot reach"] = true
+L["Answer the popup about the enchant first"] = true
+L["changed the offer"] = true
 
 --Colors
 L["Red"] = true
@@ -239,3 +267,31 @@ L["Radio"] = true
 L["Scope"] = true
 L["Global"] = true
 L["Glyphs not yet implemented"] = true
+
+-- Same English word as Disabled / Available / Copy, but a different word in some languages
+L["SettingDisabled"] = "Disabled"
+L["AuctionAvailable"] = "Available"
+L["CopyName"] = "Copy"
+
+-- Apply Recommended Game Settings (core/ui modules/gameDefaults.lua)
+L["Apply Recommended Game Settings"] = true
+L["Not in combat: try again after the fight"] = true
+L["Game settings: nothing to change"] = true
+L["Game settings changed:"] = true
+L["Already set:"] = true
+L["Could not set:"] = true
+L["Auto Loot"] = true
+L["Offscreen Nameplates"] = true
+L["Friendly NPC Nameplates"] = true
+L["All Action Bars"] = true
+L["Audio Assist"] = true
+L["Audio Assist Combat Start"] = true
+L["Audio Assist Combat End"] = true
+L["Audio Assist Target Name"] = true
+L["Audio Assist Your Debuffs"] = true
+L["Audio Assist Your Health"] = true
+L["Audio Assist Target Health"] = true
+L["Audio Assist Your Health Style"] = true
+L["Audio Assist Target Health Style"] = true
+L["Audio Assist Resource"] = true
+L["Audio Assist You Are Targeted"] = true
