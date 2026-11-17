@@ -15,6 +15,7 @@ L["Menus in Combat"] = true
 L["No menu open, Escape gives the keys back"] = true
 L["Not available in combat"] = true
 L["To answer, press"] = true
+L["To read, press"] = true
 L["To use items, press"] = true
 L["No other window"] = true
 L["To pick up items in a fight, open your bags once more out of combat"] = true
