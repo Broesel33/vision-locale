@@ -23,3 +23,7 @@ L["Nobody to watch"] = true
 L["This screen reader voice does not play the health pitch. For the pitch, choose a Windows voice such as Microsoft Zira in the Voice setting."] = true
 L["dead"] = true
 L["full"] = true
+L["Dispellable Debuffs"] = true
+L["Announce Dispellable Debuffs"] = true
+L["Number First"] = true
+L["Dispellable debuffs unavailable here"] = true
