@@ -4,6 +4,12 @@ L["Navigation"] = true
 L["Auto-move to Interact Target"] = true
 L["Automatically Navigate to Corpse"] = true
 L["Announce Remaining Waypoints"] = true
+-- its dropdown (Always and Never live in targeting and monitors)
+L["The Last 10"] = true
+L["The Last 5"] = true
+L["The Last One"] = true
+L["The Last 10 Percent"] = true
+L["Every 10"] = true
 L["Guess the Start From the Last Height"] = true
 L["Close All Windows When a Route Starts"] = true
 L["%d remaining"] = true
