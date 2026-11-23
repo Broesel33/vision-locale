@@ -28,3 +28,6 @@ L["%s more"] = "%s mehr"
 L["%s less"] = "%s weniger"
 L["%s: %s"] = "%s: %s"
 L["No difference in stats"] = "Kein Unterschied bei den Werten"
+
+-- Said at login when the game's setting for custom scripts is off (core/scriptsCheck.lua)
+L["WowVision's keys do not work yet, because the game is not set to run custom scripts. Close the game, run the WowVision Updater, then start the game again."] = "Die Tasten von WowVision funktionieren noch nicht, weil das Spiel nicht darauf eingestellt ist, eigene Skripte auszuführen. Schließe das Spiel, starte den WowVision-Updater und starte dann das Spiel neu."

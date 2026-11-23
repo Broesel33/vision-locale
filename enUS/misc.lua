@@ -27,3 +27,6 @@ L["%s more"] = true
 L["%s less"] = true
 L["%s: %s"] = true
 L["No difference in stats"] = true
+
+-- Said at login when the game's setting for custom scripts is off (core/scriptsCheck.lua)
+L["WowVision's keys do not work yet, because the game is not set to run custom scripts. Close the game, run the WowVision Updater, then start the game again."] = true
