@@ -56,3 +56,8 @@ L["General"] = true
 L["Invert Item Direction"] = true
 L["Always Start at Top"] = true
 L["Sounds When Opening and Closing"] = true
+
+-- Player auras: every buff and debuff on the player, in one key and one list
+L["Player Auras"] = true
+L["Speak Player Auras"] = true
+L["Auras are not available."] = true

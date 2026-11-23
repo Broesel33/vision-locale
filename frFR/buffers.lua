@@ -57,3 +57,8 @@ L["General"] = "Général"
 L["Invert Item Direction"] = "Inverser l'ordre des éléments"
 L["Always Start at Top"] = "Toujours commencer en haut"
 L["Sounds When Opening and Closing"] = "Sons à l'ouverture et à la fermeture"
+
+-- Player auras: every buff and debuff on the player, in one key and one list
+L["Player Auras"] = "Auras du joueur"
+L["Speak Player Auras"] = "Annoncer les auras du joueur"
+L["Auras are not available."] = "Les auras ne sont pas disponibles."
