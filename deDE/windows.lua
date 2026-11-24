@@ -386,3 +386,13 @@ L["Remove my listing"] = "Meinen Eintrag entfernen"
 L["guild member"] = "Gildenmitglied"
 L["friend"] = "Freund"
 L["lowest rating in the group: %d of 3 stars"] = "niedrigste Bewertung in der Gruppe: %d von 3 Sternen"
+
+-- World refresh (camelot/worldRefresh.lua): the game moves you to another copy of the world
+L["World Refresh"] = "Weltaktualisierung"
+L["To refresh now, open the WowVision menu and choose World Refresh"] = "Um jetzt zu aktualisieren, öffne das WowVision-Menü und wähle Weltaktualisierung"
+L["World refresh cancelled"] = "Weltaktualisierung abgebrochen"
+-- Only said when the game's own lines are missing
+L["The world is about to refresh"] = "Die Welt wird gleich aktualisiert"
+L["The world can refresh at any time"] = "Die Welt kann jederzeit aktualisiert werden"
+L["The world refreshes in %d seconds"] = "Die Welt wird in %d Sekunden aktualisiert"
+L["The world refreshes in %d minutes"] = "Die Welt wird in %d Minuten aktualisiert"

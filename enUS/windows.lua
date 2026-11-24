@@ -387,3 +387,13 @@ L["Remove my listing"] = true
 L["guild member"] = true
 L["friend"] = true
 L["lowest rating in the group: %d of 3 stars"] = true
+
+-- World refresh (camelot/worldRefresh.lua): the game moves you to another copy of the world
+L["World Refresh"] = true
+L["To refresh now, open the WowVision menu and choose World Refresh"] = true
+L["World refresh cancelled"] = true
+-- Only said when the game's own lines are missing
+L["The world is about to refresh"] = true
+L["The world can refresh at any time"] = true
+L["The world refreshes in %d seconds"] = true
+L["The world refreshes in %d minutes"] = true
