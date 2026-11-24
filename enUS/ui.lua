@@ -305,3 +305,13 @@ L["Audio Assist Your Health Style"] = true
 L["Audio Assist Target Health Style"] = true
 L["Audio Assist Resource"] = true
 L["Audio Assist You Are Targeted"] = true
+-- The interact key in the report: the game's name of the action, the key, what held the key
+L["%s set to %s"] = true
+L["%s set to %s, in place of %s"] = true
+L["%s (%s is used by %s)"] = true
+
+-- Said at login while the game's interact action has no key (gameDefaults.checkInteractKey):
+-- the action's name in the game, the UI menu, the Apply Recommended Game Settings button
+L["Say at Login When Interact With Target Has No Key"] = true
+L["Interact With Target"] = true
+L["The game's action %s has no key, so you cannot talk to characters or loot from the keyboard. To set it to G: press Shift+F1, open %s, and choose %s. Or give it a key of your own in the game's key bindings."] = true

@@ -305,3 +305,13 @@ L["Audio Assist Your Health Style"] = "Assistance audio style de votre santé"
 L["Audio Assist Target Health Style"] = "Assistance audio style de la santé de la cible"
 L["Audio Assist Resource"] = "Assistance audio ressource"
 L["Audio Assist You Are Targeted"] = "Assistance audio ciblé"
+-- The interact key in the report: the game's name of the action, the key, what held the key
+L["%s set to %s"] = "%s réglé sur %s"
+L["%s set to %s, in place of %s"] = "%s réglé sur %s, à la place de %s"
+L["%s (%s is used by %s)"] = "%s (%s est utilisée par %s)"
+
+-- Said at login while the game's interact action has no key (gameDefaults.checkInteractKey):
+-- the action's name in the game, the UI menu, the Apply Recommended Game Settings button
+L["Say at Login When Interact With Target Has No Key"] = "Annoncer à la connexion quand Interagir avec la cible n'a pas de touche"
+L["Interact With Target"] = "Interagir avec la cible"
+L["The game's action %s has no key, so you cannot talk to characters or loot from the keyboard. To set it to G: press Shift+F1, open %s, and choose %s. Or give it a key of your own in the game's key bindings."] = "L'action %s du jeu n'a pas de touche, vous ne pouvez donc ni parler aux personnages ni fouiller au clavier. Pour lui donner la touche G : appuyez sur Maj+F1, ouvrez %s et choisissez %s. Ou donnez-lui une touche de votre choix dans les raccourcis du jeu."
